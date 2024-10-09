@@ -1,0 +1,6 @@
+@substitutiva_HostAddress = http://localhost:5128
+
+GET {{substitutiva_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
